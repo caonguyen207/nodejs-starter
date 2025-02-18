@@ -21,7 +21,7 @@ Nodejs Starter is a boilerplate for Node.js web applications built with:
 
 ## Getting Started
 
-clone the repository
+Clone the repository
 
 ```sh
 $ git clone https://github.com/georgesimos/nodejs-starter.git myproject
@@ -60,7 +60,7 @@ app
 │   └── api
 │    │   └── auth.js
 │    │   └── users.js
-│    └── index.js      
+│    └── index.js
 └── index.js
 ```
 
