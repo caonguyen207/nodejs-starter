@@ -26,3 +26,5 @@ jobs:
           node-version: '20.x'
       - name: Install dependencies
         run: npm install
+      - name: Copy Environment Variables
+        run: cp .env.example .env
